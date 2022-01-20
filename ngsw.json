@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1642710208000,
+  "timestamp": 1642711260376,
   "index": "/powerline-pwa/index.html",
   "assetGroups": [
     {
@@ -13,7 +13,7 @@
       "urls": [
         "/powerline-pwa/favicon.ico",
         "/powerline-pwa/index.html",
-        "/powerline-pwa/main.12fe4aa42185c4c5.js",
+        "/powerline-pwa/main.6a172d32b6f95cbf.js",
         "/powerline-pwa/manifest.webmanifest",
         "/powerline-pwa/polyfills.22927fa8597ef5d5.js",
         "/powerline-pwa/runtime.4f1a9a4da760a523.js",
@@ -54,8 +54,8 @@
     "/powerline-pwa/assets/icons/icon-72x72.png": "c457e56089a36952cd67156f9996bc4ce54a5ed9",
     "/powerline-pwa/assets/icons/icon-96x96.png": "3914125a4b445bf111c5627875fc190f560daa41",
     "/powerline-pwa/favicon.ico": "22f6a4a3bcaafafb0254e0f2fa4ceb89e505e8b2",
-    "/powerline-pwa/index.html": "9e71aab8d692c43cc2f9a8767dbf6e4dba41fe4e",
-    "/powerline-pwa/main.12fe4aa42185c4c5.js": "a1146c225f5d082e1477219fb6c351c9d3a32390",
+    "/powerline-pwa/index.html": "c108eaede8e9017431ce36b645fad096921cdcb5",
+    "/powerline-pwa/main.6a172d32b6f95cbf.js": "18479cfc796465688af86dce90f874deb97f8a1a",
     "/powerline-pwa/manifest.webmanifest": "883ccbb1ea1c9320b44183dcf7be5c0fb697239c",
     "/powerline-pwa/polyfills.22927fa8597ef5d5.js": "0043daaeba9aabf809a64f6f445f435c84092a6c",
     "/powerline-pwa/runtime.4f1a9a4da760a523.js": "b13eb71440de079b24ae316b04f7dfb263c1417c",
