@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1642710061890,
+  "timestamp": 1642710208000,
   "index": "/powerline-pwa/index.html",
   "assetGroups": [
     {
@@ -29,6 +29,7 @@
         "ignoreVary": true
       },
       "urls": [
+        "/powerline-pwa/apple-touch-icon.png",
         "/powerline-pwa/assets/icons/icon-128x128.png",
         "/powerline-pwa/assets/icons/icon-144x144.png",
         "/powerline-pwa/assets/icons/icon-152x152.png",
@@ -43,6 +44,7 @@
   ],
   "dataGroups": [],
   "hashTable": {
+    "/powerline-pwa/apple-touch-icon.png": "ff174004e81035e80fc0d429586914bb06d5b2fb",
     "/powerline-pwa/assets/icons/icon-128x128.png": "dae3b6ed49bdaf4327b92531d4b5b4a5d30c7532",
     "/powerline-pwa/assets/icons/icon-144x144.png": "b0bd89982e08f9bd2b642928f5391915b74799a7",
     "/powerline-pwa/assets/icons/icon-152x152.png": "7479a9477815dfd9668d60f8b3b2fba709b91310",
